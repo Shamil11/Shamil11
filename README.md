@@ -21,7 +21,7 @@ I enjoy taking complex problems and turning them into simple, well-engineered so
 
 📍 Addis Ababa, Ethiopia
 📧 shamilmustefa1@gmail.com
-🌐 [Portfolio]([https://github.com/Shamil11/MyPorto-Personal-Portofolio](https://my-porto-personal-portofolio.vercel.app/))
+🌐 [Portfolio](https://github.com/Shamil11/MyPorto-Personal-Portofolio](https://my-porto-personal-portofolio.vercel.app/))
 
 ---
 
